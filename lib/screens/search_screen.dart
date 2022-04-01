@@ -29,7 +29,7 @@ class _SearchScreenState extends State<SearchScreen> {
                     color: textFieldBackground),
                 child: TextField(
                   decoration: InputDecoration(
-                      hintText: 'Search',
+                      hintText: '검색',
                       hintStyle: TextStyle(
                           fontSize: 17,
                           fontWeight: FontWeight.w600,

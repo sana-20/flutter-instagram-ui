@@ -72,7 +72,7 @@ class tabbody extends StatelessWidget {
                 height: 7,
               ),
               Text(
-                'Profile',
+                '프로필',
                 style: TextStyle(
                     fontWeight: FontWeight.w600,
                     color: white.withOpacity(0.9),
@@ -84,7 +84,7 @@ class tabbody extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 90.0),
                 child: Text(
-                  "When you share photos and vedios, they'll appear on your profile.",
+                  "사진과 동영상을 공유하면 프로필에 표시됩니다.",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontWeight: FontWeight.w400,
@@ -96,7 +96,7 @@ class tabbody extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                'Share your first photo or video',
+                '첫 사진/동영상을 공유해보세요',
                 style: TextStyle(
                     fontWeight: FontWeight.w800,
                     color: Color.fromARGB(255, 12, 97, 207),
@@ -124,7 +124,7 @@ class tabbody extends StatelessWidget {
                 height: 7,
               ),
               Text(
-                'Profile',
+                '프로필',
                 style: TextStyle(
                     fontWeight: FontWeight.w600,
                     color: white.withOpacity(0.9),
@@ -136,7 +136,7 @@ class tabbody extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 70.0),
                 child: Text(
-                  "When somone montion you in his photos or vedios, they'll appear on your profile.",
+                  "사진과 동영상을 공유하면 프로필에 표시됩니다.",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontWeight: FontWeight.w400,
@@ -191,7 +191,7 @@ class ProfileHeader extends StatelessWidget {
                     height: 5,
                   ),
                   Text(
-                    'Posts',
+                    '게시물',
                     style: TextStyle(
                         fontWeight: FontWeight.w400,
                         color: white,
@@ -212,7 +212,7 @@ class ProfileHeader extends StatelessWidget {
                     height: 5,
                   ),
                   Text(
-                    'Followers',
+                    '팔로워',
                     style: TextStyle(
                         fontWeight: FontWeight.w400,
                         color: white,
@@ -233,7 +233,7 @@ class ProfileHeader extends StatelessWidget {
                     height: 5,
                   ),
                   Text(
-                    'Following',
+                    '팔로잉',
                     style: TextStyle(
                         fontWeight: FontWeight.w400,
                         color: white,
@@ -275,7 +275,7 @@ class ProfileHeader extends StatelessWidget {
                   height: 38,
                   child: OutlinedButton(
                     onPressed: () {},
-                    child: Text('Edit profile', //isFollowed
+                    child: Text('프로필 편집', //isFollowed
                         style: TextStyle(
                           color: white,
                           fontWeight: FontWeight.w400,
@@ -379,7 +379,7 @@ class ProfileHeader extends StatelessWidget {
                     height: 7,
                   ),
                   Text(
-                    'New',
+                    '새로 만들기',
                     style: TextStyle(
                         overflow: TextOverflow.ellipsis,
                         color: white,

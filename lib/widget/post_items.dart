@@ -122,15 +122,6 @@ class PostItems extends StatelessWidget {
                           TextSpan(
                             text: posts[index]['likedBy'] == null
                                 ? ''
-                                : 'Liked by ',
-                            style: TextStyle(
-                                fontWeight: FontWeight.w300,
-                                color: white,
-                                fontSize: 14),
-                          ),
-                          TextSpan(
-                            text: posts[index]['likedBy'] == null
-                                ? ''
                                 : posts[index]['likedBy'],
                             style: TextStyle(
                                 color: white,
@@ -139,7 +130,7 @@ class PostItems extends StatelessWidget {
                           ),
                           TextSpan(
                             text:
-                                posts[index]['likedBy'] == null ? '' : ' and ',
+                                posts[index]['likedBy'] == null ? '' : '님 외 ',
                             style: TextStyle(
                                 fontWeight: FontWeight.w300,
                                 color: white,
@@ -150,6 +141,15 @@ class PostItems extends StatelessWidget {
                             style: TextStyle(
                                 color: white,
                                 fontWeight: FontWeight.w600,
+                                fontSize: 14),
+                          ),
+                          TextSpan(
+                            text: posts[index]['likedBy'] == null
+                                ? ''
+                                : '명이 좋아합니다',
+                            style: TextStyle(
+                                fontWeight: FontWeight.w300,
+                                color: white,
                                 fontSize: 14),
                           ),
                         ],
@@ -182,7 +182,7 @@ class PostItems extends StatelessWidget {
                       height: 5,
                     ),
                     Text(
-                      "View all ${posts[index]['commentCount']} Comments",
+                      "댓글 ${posts[index]['commentCount']}개 모두 보기",
                       style: TextStyle(
                           color: white.withOpacity(0.5),
                           fontWeight: FontWeight.w400,

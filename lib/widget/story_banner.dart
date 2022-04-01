@@ -50,7 +50,7 @@ class StoryBanner extends StatelessWidget {
                   height: 7,
                 ),
                 Text(
-                  'Your Story',
+                  '내 스토리',
                   style: TextStyle(
                       overflow: TextOverflow.ellipsis,
                       color: white,

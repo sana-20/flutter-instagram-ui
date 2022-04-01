@@ -62,7 +62,7 @@ class ReelItem extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      "Reels",
+                      "릴스",
                       style: TextStyle(
                           color: white.withOpacity(0.98),
                           fontSize: 25,
@@ -125,8 +125,8 @@ class ReelItem extends StatelessWidget {
                               onPressed: () {},
                               child: Text(
                                   ReelsData[index]['isFollowed']
-                                      ? 'Followed'
-                                      : 'Follow', //isFollowed
+                                      ? '팔로잉'
+                                      : '팔로우', //isFollowed
                                   style: TextStyle(
                                     color: white,
                                     fontWeight: FontWeight.w600,

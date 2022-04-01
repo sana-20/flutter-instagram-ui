@@ -6,9 +6,9 @@ List ReelsData = [
         "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
     "ContentImg": "https://media.giphy.com/media/F89PG9XV8sofbaXV4D/giphy.gif",
     "Contentcontent":
-        "Ask not what your country can do for you; ask what you can do for your country.",
+        "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
     "Musicname": "Paly kepps minde",
-    "MusicOwner": "Original Audio",
+    "MusicOwner": "원본 오디오",
     "MusicImg":
         "https://yt3.ggpht.com/ytc/AKedOLS7HoZHm5fSGyK6ENCNYjAIYNPfmIEE7SUXBag1kQ=s900-c-k-c0x00ffffff-no-rj",
     "LikesCount": "1,558",
@@ -17,28 +17,12 @@ List ReelsData = [
   },
   {
     "id": 2,
-    "Username": "Aderiane",
-    "UserImg":
-        "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
-    "ContentImg": "https://media.giphy.com/media/F89PG9XV8sofbaXV4D/giphy.gif",
-    "Contentcontent":
-        "Genius is one percent inspiration and ninety-nine percent perspiration.",
-    "Musicname": "Gangsta in the Night",
-    "MusicOwner": "Original Audio",
-    "MusicImg":
-        "https://yt3.ggpht.com/ytc/AKedOLS7HoZHm5fSGyK6ENCNYjAIYNPfmIEE7SUXBag1kQ=s900-c-k-c0x00ffffff-no-rj",
-    "LikesCount": "15.2k",
-    "CommentCount": "1,252",
-    "isFollowed": false,
-  },
-  {
-    "id": 3,
     "Username": "Jennifer",
     "UserImg":
         "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
     "ContentImg": "https://media.giphy.com/media/eiXrTRHk9WCDYjv54z/giphy.gif",
     "Contentcontent":
-        "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+        "",
     "Musicname": "Otto",
     "MusicOwner": "Sch",
     "MusicImg":
@@ -48,13 +32,13 @@ List ReelsData = [
     "isFollowed": true,
   },
   {
-    "id": 4,
+    "id": 3,
     "Username": "christina",
     "UserImg":
         "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
     "ContentImg": "https://media.giphy.com/media/cG9RUhm2L2jgaJFNoP/giphy.gif",
     "Contentcontent":
-        "If you want something said, ask a man; if you want something done, ask a woman.",
+        "⚽️🏃‍♂️🏃‍♂️🏃‍♂️🏃‍♂️",
     "Musicname": "Jusqu'a dernier Gramme",
     "MusicOwner": "Pnl",
     "MusicImg":
@@ -64,13 +48,13 @@ List ReelsData = [
     "isFollowed": false,
   },
   {
-    "id": 1,
+    "id": 4,
     "Username": "9Gag",
     "UserImg":
         "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
     "ContentImg": "https://media.giphy.com/media/2zXn1uiIfWbzDoj9Bh/giphy.gif",
     "Contentcontent":
-        "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "Keep your balance, you must keep moving.",
     "Musicname": "Mgheyer",
     "MusicOwner": "ElgrandoToTo",
     "MusicImg":
@@ -85,13 +69,29 @@ List ReelsData = [
     "UserImg":
         "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
     "ContentImg": "https://media.giphy.com/media/YF7lgzrHmgJ6U66pPE/giphy.gif",
-    "Contentcontent": "No one can make you feel inferior without your consent.",
+    "Contentcontent": "코-쓱,,",
     "Musicname": "Ma Jolie",
     "MusicOwner": "Jul",
     "MusicImg":
         "https://www.leparisien.fr/resizer/c-90NP-gQWV2fLEmNSWyJutRcAU=/932x582/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/ODVIVHIKNH2GSRASP32FA3DK5M.jpg",
     "LikesCount": "9,156",
     "CommentCount": "129",
+    "isFollowed": false,
+  },
+  {
+    "id": 6,
+    "Username": "Aderiane",
+    "UserImg":
+        "https://www.infobascongo.net/beta/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fwww.infobascongo.net%2Fbeta%2Fwp-content%2F2020%2F07%2Fronaldo.jpg&q=90&w=795&zc=1",
+    "ContentImg": "https://media.giphy.com/media/F89PG9XV8sofbaXV4D/giphy.gif",
+    "Contentcontent":
+        "🤣🤣🤣",
+    "Musicname": "Gangsta in the Night",
+    "MusicOwner": "원본 오디오",
+    "MusicImg":
+        "https://yt3.ggpht.com/ytc/AKedOLS7HoZHm5fSGyK6ENCNYjAIYNPfmIEE7SUXBag1kQ=s900-c-k-c0x00ffffff-no-rj",
+    "LikesCount": "15.2k",
+    "CommentCount": "1,252",
     "isFollowed": false,
   },
 ];
